@@ -1,6 +1,6 @@
 # Auto IoT Flow — Standalone (Localhost)
 
-This is a **standalone** project that runs entirely on your **localhost**, with no Lovable tooling.
+This is a **standalone** project that runs entirely on your **localhost**
 It includes a React frontend (Vite) and any backend/services included in this repo.
 
 ## Run (frontend)
